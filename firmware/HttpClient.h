@@ -1,6 +1,6 @@
 #ifndef __HTTP_CLIENT_H_
 #define __HTTP_CLIENT_H_
-
+#define LOGGING
 #include "application.h"
 #include "spark_wiring_string.h"
 #include "spark_wiring_tcpclient.h"
